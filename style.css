@@ -1,0 +1,18 @@
+.s1{
+    text-align: center; 
+    color: black;   
+    font-style: bold;
+}
+
+p{
+    width: 75%;
+    margin: 40px;
+    padding: 20px;
+}
+li{
+    list-style-type: lower-roman;
+}
+.s2{
+    width: 1530px;
+    height: 200px;
+}
